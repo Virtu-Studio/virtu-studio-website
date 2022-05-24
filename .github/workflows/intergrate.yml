@@ -5,7 +5,7 @@ jobs:
     runs-on: ubuntu-latest
     defaults:
       run:
-        working-directory: ./virtu-studio-website
+        working-directory:
 
     steps:
       - name: Checkout 🛎️
